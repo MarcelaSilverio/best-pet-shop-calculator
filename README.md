@@ -30,3 +30,8 @@ Como se trata de um sistema simples, foi utilizado apenas um arquivo que represe
 Um ponto importante considerado foi a utilização de docstrings para a documentação do código. Também foram utilizadas type hints que permitem especificar os tipos esperados.
 
 Para a construção de um código limpo e robusto (levando em consideração a baixa complexidade da regra de negócio), foram aplicados os princípios solid, principalmente o princípio da responsabilidade única, e o DRY ("Don't repeat yourself"). 
+
+## Premissas assumidas
+
+Durante o desenvolvimento, foi considerado que cada pet shop sempre teria dois produtos (banho para cachorro pequeno com o identificador 1 e banho para cachorro grande com o identificador 2). São eles os considerados para o cálculo realizado no módulo. Ao pensarmos o problema utilizando um banco de dados, é estranho dois produtos com um mesmo identificador, mesmo que sejam de pet shops diferentes. Entretanto, considerei nesse cenário que cada petshop teria o seu próprio banco (algo que faria sentido em uma aplicação de grande porte).
+
