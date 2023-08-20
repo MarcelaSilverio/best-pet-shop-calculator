@@ -33,5 +33,5 @@ Para a construção de um código limpo e robusto (levando em consideração a b
 
 ## Premissas assumidas
 
-Durante o desenvolvimento, foi considerado que cada pet shop sempre teria dois produtos (banho para cachorro pequeno com o identificador 1 e banho para cachorro grande com o identificador 2). São eles os considerados para o cálculo realizado no módulo. Ao pensarmos no problema utilizando um banco de dados, é estranho dois produtos com um mesmo identificador, mesmo que sejam de pet shops diferentes. Entretanto, considerei nesse cenário que cada petshop teria o seu próprio banco (algo que faria sentido em uma aplicação de grande porte).
+Durante o desenvolvimento, foi considerado que cada pet shop sempre teria dois produtos (banho para cachorro pequeno com o identificador 1 e banho para cachorro grande com o identificador 2). Eles que são considerados para o cálculo realizado no módulo. Ao pensarmos no problema utilizando um banco de dados, é estranho dois produtos com um mesmo identificador, mesmo que sejam de pet shops diferentes. Entretanto, considerei nesse cenário que cada petshop teria o seu próprio banco (algo que faria sentido em uma aplicação de grande porte).
 
