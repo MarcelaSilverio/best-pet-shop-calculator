@@ -2,7 +2,7 @@
 
 Esse módulo em python visa calcular qual pet shop envolve menos custos para banhar cachoros grandes e pequenos dada uma data.
 
-## Intruções para execuação
+## Intruções para execução
 
 A interface do sistema é do tipo console. Utilize de preferência a versão 3.10 da linguagem python.
 No terminal, entre no diretório do projeto e execute (é necessário ter a linguagem instalada e configurada):
