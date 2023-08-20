@@ -29,7 +29,7 @@ Como se trata de um sistema simples, foi utilizado apenas um arquivo que represe
 
 Um ponto importante considerado foi a utilização de docstrings para a documentação do código. Também foram utilizadas type hints que permitem especificar os tipos esperados.
 
-Para a construção de um código limpo e robusto (levando em consideração a baixa complexidade da regra de negócio), foram aplicados os princípios solid, principalmente o princípio da responsabilidade única, e o DRY ("Don't repeat yourself"). 
+Para a construção de um código limpo e robusto (levando em consideração a baixa complexidade da regra de negócio), foram aplicados os princípios SOLID, principalmente o princípio da responsabilidade única, e o DRY ("don't repeat yourself"). 
 
 ## Premissas assumidas
 
