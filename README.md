@@ -25,7 +25,7 @@ Nome: Meu Canino Feliz | Preço: R$260.00
 ```
 ## Decisões de projeto
 
-Como se trata de um sistema simples, foi utilizado apenas um arquivo que representa um módulo. Ele contém as classes que das entidades envolta do problema, além de um código procedural (caso ele seja chamado diretamente) que realiza a leitura, tratamento e impressão dos dados.
+Como se trata de um sistema simples, foi utilizado apenas um arquivo que representa um módulo. Ele contém as classes das entidades envolta do problema, além de um código procedural (caso ele seja chamado diretamente) que realiza a leitura, tratamento e impressão dos dados.
 
 Um ponto importante considerado foi a utilização de docstrings para a documentação do código. Também foram utilizadas type hints que permitem especificar os tipos esperados.
 
